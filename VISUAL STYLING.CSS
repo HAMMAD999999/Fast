@@ -1,0 +1,43 @@
+.body{
+    margin: 0;
+}
+.primary-nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 48px;
+}
+.primary-nav ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+.primary-nav ul li{
+    margin: 12px;
+}
+.primary-nav ul li a{
+    text-decoration: none;
+}
+.primary-nav ul li a:hover{
+    border-bottom: 3px solid black;
+}
+.header-img-wrap img{
+    width: 100%;
+}
+.ms-product-wrap{
+    display: flex;
+}
+.product-card{
+    width: 25%;
+    height: 100px;
+    background-color:white;
+    margin: 15px;
+}
+.ms-product-wrap img{
+    width: 100%;
+}
+.ms-product-wraps img{
+    width: 100%;
+}
+
+
